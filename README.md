@@ -141,7 +141,7 @@ contain multiple types of files that use various syntax/text and also
 include subfolders, sub-subfolders, etc.
 
 Read these directions first, then work through them. Do your best to
-complete the tasks/directions by **11:59 pm (EST) on Wed, Jan 17**.
+complete the tasks/directions **by our next class session**.
 
 - In your `activity01-course-tools` repo folder/directory, locate and
   click into the `day01-github-rstudio` subfolder.

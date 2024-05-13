@@ -46,7 +46,7 @@ Now that RStudio and GitHub are communicating, we can clone your repo!
 In GitHub language, *cloning* means to make a copy of your GitHub repo
 on your local computer (i.e., your RStudio/RStudio Workbench session).
 
-![check-in](README-img/noun-magnifying-glass.png) **Check in**
+![check-in](../README-img/noun-magnifying-glass.png) **Check in**
 
 Answer each of these questions:
 
